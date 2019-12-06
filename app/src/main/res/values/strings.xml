@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AgroTask</string>
+    <string name="message_denied">Для показа кнопки с локацией, нужно разрешение</string>
+    <string name="message_approved">Отлично, не забудьте включить геолокацию</string>
+    <string name="map_key" translatable="false">40c1ee2b-e688-41f0-9e0e-7b6f83b28c64</string>
+
+    <string name="field_name">Поле %d</string>
+    <string name="field_size">%d га</string>
+
+    <string name="search">Поиск</string>
+    <string name="choose_year">Выберите год</string>
+    <string name="all_years">Очистить фильтр</string>
+</resources>

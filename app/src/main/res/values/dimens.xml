@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="recycler_elevation">12dp</dimen>
+    <dimen name="bottom_recycler_height">180dp</dimen>
+    <dimen name="holder_fields_corner">2dp</dimen>
+
+    <dimen name="padding_8dp">8dp</dimen>
+    <dimen name="padding_16dp">16dp</dimen>
+
+    <dimen name="text_12">12sp</dimen>
+    <dimen name="text_14">14sp</dimen>
+    <dimen name="text_15">15sp</dimen>
+    <dimen name="search_edit_text_height">56dp</dimen>
+</resources>
